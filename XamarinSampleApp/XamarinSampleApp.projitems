@@ -10,5 +10,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)XamarinSampleApp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IntroCarousel.xaml.cs">
+      <DependentUpon>IntroCarousel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)ISocialController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IAppearance.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)IntroCarousel.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>
