@@ -138,7 +138,6 @@
     <BundleResource Include="Resources\bitrise%401x.png" />
     <BundleResource Include="Resources\branch%401x.png" />
     <BundleResource Include="Resources\heart%401x.png" />
-    <BundleResource Include="Resources\insights%401x.png" />
     <BundleResource Include="Resources\ship%401x.png" />
     <BundleResource Include="Resources\xamarin%401x.png" />
     <BundleResource Include="Resources\xtc%401x.png" />
@@ -146,7 +145,6 @@
     <BundleResource Include="Resources\bitrise%402x.png" />
     <BundleResource Include="Resources\branch%402x.png" />
     <BundleResource Include="Resources\heart%402x.png" />
-    <BundleResource Include="Resources\insights%402x.png" />
     <BundleResource Include="Resources\ship%402x.png" />
     <BundleResource Include="Resources\xamarin%402x.png" />
     <BundleResource Include="Resources\xtc%402x.png" />
@@ -154,7 +152,6 @@
     <BundleResource Include="Resources\bitrise%403x.png" />
     <BundleResource Include="Resources\branch%403x.png" />
     <BundleResource Include="Resources\heart%403x.png" />
-    <BundleResource Include="Resources\insights%403x.png" />
     <BundleResource Include="Resources\ship%403x.png" />
     <BundleResource Include="Resources\xamarin%403x.png" />
     <BundleResource Include="Resources\xtc%403x.png" />

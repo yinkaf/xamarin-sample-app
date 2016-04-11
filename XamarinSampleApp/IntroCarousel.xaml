@@ -84,7 +84,7 @@ from testing to distribution.
 	    		BackgroundColor="#3498db"
 	    		Padding="25">
 
-	    		<Image Source="insights.png" />
+	    		<Image Source="hockey.png" />
 	    	</StackLayout>
 	        <StackLayout
 	    		Padding="0, 20, 0, 0"
