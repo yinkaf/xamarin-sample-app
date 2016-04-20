@@ -21,7 +21,7 @@ namespace XamarinSampleApp
 			};
 
 			TweetButton.Clicked += (object sender, EventArgs e) => {
-				var item = new Item { Text = "Just finished the Bitrise Hackaton at #Xamarin Evolve!" };
+				var item = new Item { Text = "Just finished the Bitrise Hackaton at #Xamarin Evolve!!" };
 
 				DependencyService.Get<ISocialController> ().TweetWithItem (item);
 			};
