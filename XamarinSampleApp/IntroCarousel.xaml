@@ -156,7 +156,7 @@ the Bitrise mini-hack!
 	    	</Label>
 	    	<Image Source="heart.png" />
 	    	<Label
-	    		Text="Just one more thing."
+	    		Text="Just one more thing!."
 		    	HorizontalTextAlignment="Center"
 		    	TextColor="#ffffff"
 		    	FontSize="18" />
